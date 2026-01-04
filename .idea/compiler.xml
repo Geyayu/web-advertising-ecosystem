@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ad-service" />
         <module name="news-site" />
+        <module name="shopping-site" />
+        <module name="ad-service" />
         <module name="web-advertising-ecosystem (1)" />
       </profile>
     </annotationProcessing>
